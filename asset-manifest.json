@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/TravelSort/static/css/main.fcf3ea83.chunk.css",
+    "main.js": "/TravelSort/static/js/main.e30f61eb.chunk.js",
+    "main.js.map": "/TravelSort/static/js/main.e30f61eb.chunk.js.map",
+    "runtime~main.js": "/TravelSort/static/js/runtime~main.84a4d306.js",
+    "runtime~main.js.map": "/TravelSort/static/js/runtime~main.84a4d306.js.map",
+    "static/css/2.266e55a5.chunk.css": "/TravelSort/static/css/2.266e55a5.chunk.css",
+    "static/js/2.7db56f7f.chunk.js": "/TravelSort/static/js/2.7db56f7f.chunk.js",
+    "static/js/2.7db56f7f.chunk.js.map": "/TravelSort/static/js/2.7db56f7f.chunk.js.map",
+    "index.html": "/TravelSort/index.html",
+    "precache-manifest.817131c479e1f84c2bcdeebc092f2d21.js": "/TravelSort/precache-manifest.817131c479e1f84c2bcdeebc092f2d21.js",
+    "service-worker.js": "/TravelSort/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/TravelSort/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.fcf3ea83.chunk.css.map": "/TravelSort/static/css/main.fcf3ea83.chunk.css.map",
+    "static/media/logo.svg": "/TravelSort/static/media/logo.5d5d9eef.svg"
+  }
+}
