@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9bcc0c221e5824ee16109e35e966ae63",
+    "revision": "6afbf736f998a0ccec7089b5a4bb163a",
     "url": "/TravelSort/index.html"
   },
   {
-    "revision": "b39d3a077b67351a792a",
+    "revision": "b60922500e2be2b43bbd",
     "url": "/TravelSort/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "8e1d570b912513aeaf63",
+    "revision": "5ee7fd685546947173a7",
     "url": "/TravelSort/static/css/main.fcf3ea83.chunk.css"
   },
   {
-    "revision": "b39d3a077b67351a792a",
-    "url": "/TravelSort/static/js/2.7db56f7f.chunk.js"
+    "revision": "b60922500e2be2b43bbd",
+    "url": "/TravelSort/static/js/2.cb9ed18d.chunk.js"
   },
   {
-    "revision": "8e1d570b912513aeaf63",
-    "url": "/TravelSort/static/js/main.e30f61eb.chunk.js"
+    "revision": "5ee7fd685546947173a7",
+    "url": "/TravelSort/static/js/main.32caa247.chunk.js"
   },
   {
     "revision": "182b84d6e9d1ae328e16",
